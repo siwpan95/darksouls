@@ -1,5 +1,7 @@
 # Dark Souls: Card Chronicles
 
+> 仓库：<https://gitee.com/siwpan/darksouls> ｜ 许可：MIT-0（MIT No Attribution）（见 [LICENSE](LICENSE)）
+
 一款黑暗之魂题材的 Roguelike 卡牌游戏。
 
 ## 语言 / 类型
@@ -12,7 +14,7 @@
 - `architecture.md`、`prd.md` —— 架构与需求设计文档
 
 ## 运行方式与依赖
-- 运行：`F:\Python314\python.exe main.pyw`
+- 运行：`python main.pyw`
 - 依赖：pygame（项目未提供 requirements.txt）
 
 ## 测试状态
