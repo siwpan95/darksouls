@@ -7,7 +7,7 @@
 | Language | 中文文档 / 英文 UI |
 | Programming Language | Python + pygame_ce |
 | Project Name | `elde_cardgame` |
-| 存储路径 | `D:/allin/elde/` |
+| 存储路径 | `<PATH>` |
 | 原始需求 | 基于 Dark Souls 世界观，开发一款融合杀戮尖塔机制的 Roguelike 卡牌游戏，含 d20 判定、遗物系统、三幕路线、战利品与升级机制 |
 
 ---
